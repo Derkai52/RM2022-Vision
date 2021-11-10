@@ -1,0 +1,13 @@
+
+    cameraMatrix.at<double>(0, 0) = 6.148676222335824e+02;
+    cameraMatrix.at<double>(0, 1) = 0.543990249870212;
+    cameraMatrix.at<double>(0, 2) = 3.377862658157748e+02;
+    cameraMatrix.at<double>(1, 1) = 6.151164172027852e+02;
+    cameraMatrix.at<double>(1, 2) = 2.294223566200772e+02;
+
+
+    distCoeffs.at<double>(0, 0) = -0.440437981529298;
+    distCoeffs.at<double>(1, 0) = 0.204970239977415;
+    distCoeffs.at<double>(2, 0) = -1.313707572266030e-04;
+    distCoeffs.at<double>(3, 0) = -0.002061994359471;
+    distCoeffs.at<double>(4, 0) = 0;
