@@ -22,6 +22,7 @@
 
 #### **离线安装的一些准备工作**
 
+将以下位置所标记的内容修改为实际 download.zip 解压的目录 例如  "file:/opt/opencv/download/"
    1.  /opencv-4.1.2/3rdparty/ippicv/ippicv.cmake（第47行）
 
    2.  /opencv_contrib/modules/xfeature2d/cmake/download_boostdesc.cmake（第27行）
@@ -29,9 +30,7 @@
    3.  /opencv_contrib/modules/xfeature2d/cmake/download_vgg.cmake（第21行）
    4.  /opencv_contrib/modules/face/CMakeLists.txt（第19行）
 
-​      将这些位置所标记的内容修改为实际 download.zip 解压的目录 例如  "file:/opt/opencv/download/"
-
-   4.继续修改一个文件位于   /opencv_contrib/modules/xfeatures2d/sr/sift.cpp  打开文件将110行(#include<...tls.hpp>)注释或者直接删除
+   5.继续修改一个文件位于   /opencv_contrib/modules/xfeatures2d/sr/sift.cpp  打开文件将110行(#include<...tls.hpp>)注释或者直接删除
 
 
 
