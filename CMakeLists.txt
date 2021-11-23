@@ -24,7 +24,7 @@ IF(CCACHE_FOUND)
 ENDIF()
 
 FIND_PACKAGE(Eigen3 REQUIRED)
-FIND_PACKAGE(OpenCV 4 REQUIRED) # 根据实际使用opencv版本更改
+FIND_PACKAGE(OpenCV 4 REQUIRED) # 数字根据实际使用opencv版本更改,例如opencv3.X就改为3，opencv4.X就改为4
 FIND_PACKAGE(Threads)
 
 LINK_DIRECTORIES(${PROJECT_SOURCE_DIR}/others)
