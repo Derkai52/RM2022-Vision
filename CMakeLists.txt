@@ -38,7 +38,7 @@ INCLUDE_DIRECTORIES(${PROJECT_SOURCE_DIR}/others/include)
 INCLUDE_DIRECTORIES(${PROJECT_SOURCE_DIR}/others/include/Hik)
 
 FILE(GLOB_RECURSE sourcefiles "others/src/*.cpp" "energy/src/*cpp" "armor/src/*.cpp")
-ADD_EXECUTABLE(${BIN_NAME} main.cpp ${sourcefiles} others/include/camera/Hikcamera_debug.h others/src/camera/Hikcamera_debug.cpp others/src/camera/Hikcamera_wrapper.cpp others/include/camera/Hikcamera_wrapper.h others/include/camera/HikCameraPara.h)
+ADD_EXECUTABLE(${BIN_NAME} main.cpp ${sourcefiles} others/include/camera/Hikcamera_debug.h others/src/camera/Hikcamera_debug.cpp others/src/camera/Hikcamera_wrapper.cpp others/include/camera/Hikcamera_wrapper.h)
 
 TARGET_LINK_LIBRARIES(${BIN_NAME} ${CMAKE_THREAD_LIBS_INIT})
 TARGET_LINK_LIBRARIES(${BIN_NAME} ${OpenCV_LIBS})
