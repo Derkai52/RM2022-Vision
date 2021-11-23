@@ -20,7 +20,7 @@
 >
 >相机驱动下载：[海康机器人开发下载中心](https://www.hikrobotics.com/cn/machinevision/service/download?module=0)
 >
->OpenCV库：OpenCV4.1及以上
+>OpenCV库：推荐OpenCV4.1及以上(最低支持OpenCV3.4.5)
 >
 >Eigen库下载: sudo apt install libeigen3-dev
 
