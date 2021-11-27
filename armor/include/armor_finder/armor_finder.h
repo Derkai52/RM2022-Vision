@@ -19,7 +19,7 @@
 #define IMAGE_CENTER_X      (320)
 #define IMAGE_CENTER_Y      (240)
 
-#define DISTANCE_HEIGHT_6MM (9480.0)     // 单位: cm*pixel(请根据实际镜头焦距更改数值) //推荐数值： 5mm 7300.0  //6mm 9420.0
+#define DISTANCE_HEIGHT_6MM (9480.0)     // 单位: cm*pixel(请根据实际镜头焦距更改数值) 数值表请参阅《代码调试手册》
 #define DISTANCE_HEIGHT     DISTANCE_HEIGHT_6MM
 
 #define         B1 1
