@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ASFFace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake_example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake_example/pybind11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common-code-base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/drowning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/model/Drowning-Detector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pybind11_opencv_numpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rm2021_cidp_vision" vcs="Git" />
+  </component>
+</project>

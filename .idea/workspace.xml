@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d94759eb-20d9-4328-a3e2-9ac97e3a3d1b" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/ASFFace/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASFFace/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASFFace/detection.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/example/SDK_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/Face.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/Face.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/Face.h" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/Face.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/ArcFace64.dat" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/ArcFace64.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/3.10.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/3.10.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/CMakeError.log" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/Face.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/Face.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/CMakeFiles/run.dir/opencvtest.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/build/run" beforeDir="false" afterPath="$PROJECT_DIR$/ASFFace/build/run" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/anxinsheng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/chenjingshuo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/duchangpeng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/fenghaoyu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/fenghaoyv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/gaoqiang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/guoxiaoran.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/guoyuxian.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/hexiaoliang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/houjiapeng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/huangyouhan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/husiyuan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/jiangzhijian.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/jintangshuo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/lijiarui.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/liqihang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/liranzhen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/liukuai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/liutianai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/liuxingyv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/luanyunzhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/mawenjie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/qingying.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/qinying.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/renjie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/shaotianlong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/shaotianzhu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/sliukuaikuai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/sliuxingyv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/t1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/tangkai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/tanqingyuan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/tianjiali1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/tianjingping.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/tuhaiyang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/wanghao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/wangzhijie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/xuqingfeng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/yangjiekun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/yangzhuen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/yanzhaoqing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/yingyuxiao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/yinjiahui.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/yujignyang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/yvjingyang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/yvjingyang1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/zhangchangqingyuan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/zhangdehao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/zhangjiaming.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/zhaoziqi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/zhengchengfei.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/zuoweixin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/detectimage/zuoweixin2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASFFace/opencvtest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/example/example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/example/example.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/example/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/example/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/example/fellow_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/example/fellow_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/linux_build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/linux_build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/connection/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/connection/connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/ai.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/ai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/arm.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/arm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/armor.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/armor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/blaster.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/blaster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/chassis.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/chassis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/decoder/audio_decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/decoder/audio_decoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/decoder/video_decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/decoder/video_decoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/gimbal.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/gimbal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/gripper.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/gripper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/led.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/led.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/microphone.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/microphone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/sound.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/sound.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/status.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/module/status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/robot.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster/robot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/interaction/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/interaction/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/interaction/audio_player.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/interaction/audio_player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/interaction/color_picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/interaction/color_picker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/interaction/image_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/interaction/image_viewer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/interaction/remote_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/interaction/remote_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/blaster.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/blaster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/chassis.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/chassis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/gimbal.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/gimbal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/led.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/led.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/microphone.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/module/microphone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/robot.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/robomaster_jupyter/robot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/cmake/FindOpus.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/cmake/FindOpus.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/h264_decoder/h264decoder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/h264_decoder/h264decoder.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/h264_decoder/h264decoder.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/h264_decoder/h264decoder.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/opus_decoder/opus_decoder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/opus_decoder/opus_decoder.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/opus_decoder/opus_decoder.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/opus_decoder/opus_decoder.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/ISSUE_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/MANIFEST.in" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/MANIFEST.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/Doxyfile" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/Doxyfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/_static/theme_overrides.css" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/_static/theme_overrides.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/chrono.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/chrono.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/custom.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/custom.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/eigen.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/eigen.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/functional.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/functional.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/overview.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/overview.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/stl.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/stl.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/strings.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/cast/strings.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/classes.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/classes.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/embedding.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/embedding.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/exceptions.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/exceptions.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/functions.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/functions.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/misc.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/misc.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/pycpp/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/pycpp/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/pycpp/numpy.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/pycpp/numpy.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/pycpp/object.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/pycpp/object.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/pycpp/utilities.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/pycpp/utilities.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/smart_ptrs.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/advanced/smart_ptrs.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/basics.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/basics.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/benchmark.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/benchmark.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/benchmark.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/benchmark.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/changelog.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/changelog.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/classes.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/classes.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/compiling.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/compiling.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/faq.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/faq.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/intro.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/intro.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/limitations.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/limitations.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/pybind11_vs_boost_python1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/pybind11_vs_boost_python1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/pybind11_vs_boost_python2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/pybind11_vs_boost_python2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/reference.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/reference.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/release.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/release.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/upgrade.rst" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/docs/upgrade.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/attr.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/attr.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/buffer_info.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/buffer_info.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/cast.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/cast.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/chrono.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/chrono.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/common.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/common.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/complex.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/complex.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/class.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/class.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/common.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/common.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/descr.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/descr.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/init.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/init.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/internals.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/internals.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/typeid.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/detail/typeid.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/eigen.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/eigen.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/embed.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/embed.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/eval.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/eval.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/functional.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/functional.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/iostream.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/iostream.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/numpy.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/numpy.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/operators.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/operators.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/options.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/options.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/pybind11.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/pybind11.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/pytypes.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/pytypes.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/stl.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/stl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/stl_bind.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/include/pybind11/stl_bind.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/pybind11/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/pybind11/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/pybind11/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/pybind11/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/pybind11/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/pybind11/_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/setup.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/constructor_stats.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/constructor_stats.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/cross_module_gil_utils.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/cross_module_gil_utils.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/local_bindings.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/local_bindings.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/object.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/object.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/pybind11_cross_module_tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/pybind11_cross_module_tests.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/pybind11_tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/pybind11_tests.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/pybind11_tests.h" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/pybind11_tests.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_async.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_async.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_async.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_async.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_buffers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_buffers.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_buffers.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_buffers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_builtin_casters.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_builtin_casters.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_builtin_casters.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_builtin_casters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_call_policies.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_call_policies.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_call_policies.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_call_policies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_callbacks.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_callbacks.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_callbacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_callbacks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_chrono.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_chrono.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_chrono.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_chrono.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_class.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_class.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/embed.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/embed.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/installed_embed/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/installed_embed/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/installed_function/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/installed_function/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/installed_target/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/installed_target/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/subdirectory_embed/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/subdirectory_embed/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/subdirectory_function/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/subdirectory_function/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/subdirectory_target/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/subdirectory_target/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_cmake_build/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_constants_and_functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_constants_and_functions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_constants_and_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_constants_and_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_copy_move.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_copy_move.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_copy_move.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_copy_move.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_docstring_options.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_docstring_options.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_docstring_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_docstring_options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_eigen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_eigen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_eigen.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_eigen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_embed/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_embed/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_embed/catch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_embed/catch.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_embed/external_module.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_embed/external_module.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_embed/test_interpreter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_embed/test_interpreter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_embed/test_interpreter.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_embed/test_interpreter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_enum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_enum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_enum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_enum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_eval.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_eval.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_eval_call.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_eval_call.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_exceptions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_exceptions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_factory_constructors.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_factory_constructors.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_factory_constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_factory_constructors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_gil_scoped.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_gil_scoped.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_gil_scoped.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_gil_scoped.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_iostream.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_iostream.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_iostream.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_iostream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_kwargs_and_defaults.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_kwargs_and_defaults.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_kwargs_and_defaults.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_kwargs_and_defaults.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_local_bindings.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_local_bindings.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_local_bindings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_local_bindings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_methods_and_attributes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_methods_and_attributes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_methods_and_attributes.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_methods_and_attributes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_modules.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_modules.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_multiple_inheritance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_multiple_inheritance.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_multiple_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_multiple_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_array.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_array.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_dtypes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_dtypes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_dtypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_dtypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_vectorize.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_vectorize.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_vectorize.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_numpy_vectorize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_opaque_types.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_opaque_types.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_opaque_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_opaque_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_operator_overloading.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_operator_overloading.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_operator_overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_operator_overloading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_pickling.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_pickling.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_pickling.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_pickling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_pytypes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_pytypes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_pytypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_pytypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_sequences_and_iterators.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_sequences_and_iterators.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_sequences_and_iterators.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_sequences_and_iterators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_smart_ptr.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_smart_ptr.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_smart_ptr.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_smart_ptr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_stl.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_stl.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_stl.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_stl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_stl_binders.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_stl_binders.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_stl_binders.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_stl_binders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_tagbased_polymorphic.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_tagbased_polymorphic.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_tagbased_polymorphic.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_tagbased_polymorphic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_union.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_union.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_union.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_union.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_virtual_functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_virtual_functions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_virtual_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tests/test_virtual_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/FindCatch.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/FindCatch.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/FindEigen3.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/FindEigen3.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/FindPythonLibsNew.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/FindPythonLibsNew.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/check-style.sh" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/check-style.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/libsize.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/libsize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/mkdoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/mkdoc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/pybind11Config.cmake.in" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/pybind11Config.cmake.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/pybind11Tools.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/DJI_EP_SDK/plaintext_sdk/src/pybind11/tools/pybind11Tools.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake_example/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake_example/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake_example/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake_example/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake_example/tests/test_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/cmake_example/output/test_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Drowning-Detector/cvlib/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Drowning-Detector/cvlib/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pybind11_opencv_numpy/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pybind11_opencv_numpy/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pybind11_opencv_numpy/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pybind11_opencv_numpy/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pybind11_opencv_numpy/tests/cpp/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/pybind11_opencv_numpy/tests/cpp/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pybind11_opencv_numpy/tests/test_binding.py" beforeDir="false" afterPath="$PROJECT_DIR$/pybind11_opencv_numpy/tests/test_binding.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zb1RwEMIl6e4rKii4tWSNuG7Sa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drowning" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d94759eb-20d9-4328-a3e2-9ac97e3a3d1b" name="默认变更列表" comment="" />
+      <created>1634401968970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634401968970</updated>
+      <workItem from="1634401970110" duration="10000" />
+    </task>
+    <servers />
+  </component>
+</project>
